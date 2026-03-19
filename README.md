@@ -16,14 +16,14 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=giocali&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=giocali&theme=dracula" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=giocali&theme=dracula" height="150" alt="trophy graph" />
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giocali/giocali/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giocali/giocali/output/pacman-contribution-graph.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giocali/giocali/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giocali/giocali/output/pacman-contribution-graph.svg">
   </picture>
