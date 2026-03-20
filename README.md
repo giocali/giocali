@@ -22,8 +22,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/giocali/giocali/blob/output/pacman-contribution-graph-dark.svg?raw=true" width="100%" alt="Pacman Animation" />
-</div>
+  <img src="https://raw.githubusercontent.com/giocali/giocali/refs/heads/output/dist/pacman-contribution-graph-dark.svg" width="100%" alt="Pacman" />
+</div>>
 
 <br/>
 
