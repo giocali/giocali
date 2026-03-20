@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=👋&fontSize=70&color=72B7C4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Hey%20👋%20Giocali&fontSize=70&color=72B7C4" />
 </div>
 
 <div align="center">
@@ -15,18 +15,14 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giocali&show_icons=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://streak-stats.demolab.com?user=giocali&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=giocali&theme=dracula" height="150" alt="trophy graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giocali/giocali/output/pacman-contribution-graph.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giocali/giocali/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giocali/giocali/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://github.com/giocali/giocali/blob/output/pacman-contribution-graph-dark.svg?raw=true" width="100%" alt="Pacman Animation" />
 </div>
 
 <br/>
