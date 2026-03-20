@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Hey%20👋%20Giocali&fontSize=70&color=72B7C4" />
-</div>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" />
