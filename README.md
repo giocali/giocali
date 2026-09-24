@@ -28,5 +28,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=315j4iq66smro37ncqai5bz567zu&count=5" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=315j4iq66smro37ncqai5bz567zu&count=3&radius=14" alt="Spotify Recently Played" />
 </div>
