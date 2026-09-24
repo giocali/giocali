@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giocali&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  
   <img src="https://streak-stats.demolab.com?user=giocali&theme=dracula" height="150" />
 </div>
 
